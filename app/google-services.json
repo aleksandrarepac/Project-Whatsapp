@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "861552694690",
+    "project_id": "whaatsapp-780b8",
+    "storage_bucket": "whaatsapp-780b8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:861552694690:android:c26cbb6a4eda50fe5c8efb",
+        "android_client_info": {
+          "package_name": "com.example.whaatsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "861552694690-1vroi4p3s04j1im61jm0kav8vokpmehv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABMeGfdZUS3Ej0g8riqyigXFqgR9ws7Jw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "861552694690-1vroi4p3s04j1im61jm0kav8vokpmehv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
